@@ -1,0 +1,15 @@
+- group: 服务器
+	description: 这里是一些服务器QAQ
+	items: 
+	- title: PiPCraft
+		avatar: https://pip.moe/favicon.ico
+		url: https://pip.moe/
+		screenshot: 
+		keywords: 
+		description: 抗原试纸都羡慕的炒鸡服务器
+	- title: Necl|霓虹元年
+		avatar: https://www.brmc.top:444/necl/favicon.png
+		url: https://www.brmc.top:444/necl/
+		screenshot: 
+		keywords: 
+		description: 
